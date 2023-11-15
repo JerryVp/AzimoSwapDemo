@@ -14,7 +14,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 222000222,
-      "logoURI": "https://raw.githubusercontent.com/"
+      "logoURI": "https://raw.githubusercontent.com/JerryVp/AzimoSwapDemo/master/logos/eth.png"
     },
     {
       "name": "TokenTest 1",
@@ -22,7 +22,7 @@
       "symbol": "Test1",
       "decimals": 18,
       "chainId": 222000222,
-      "logoURI": "https://raw.githubusercontent.com/"
+      "logoURI": "https://raw.githubusercontent.com/JerryVp/AzimoSwapDemo/master/logos/token1.png"
     },
     {
       "name": "TokenTest 2",
@@ -30,7 +30,7 @@
       "symbol": "Test2",
       "decimals": 18,
       "chainId": 222000222,
-      "logoURI": "https://raw.githubusercontent.com/"
+      "logoURI": "https://raw.githubusercontent.com/JerryVp/AzimoSwapDemo/master/logos/token2.png"
     },
     {
       "name": "TokenTest 3",
@@ -38,7 +38,7 @@
       "symbol": "Test3",
       "decimals": 18,
       "chainId": 222000222,
-      "logoURI": "https://raw.githubusercontent.com/"
+      "logoURI": "https://raw.githubusercontent.com/JerryVp/AzimoSwapDemo/master/logos/token3.png"
     }
   ]
 }
