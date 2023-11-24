@@ -9,14 +9,6 @@
   },
   "tokens": [
     {
-      "name": "WETH",
-      "address": "0xee8b9cf179d38bD8d2e69DE54Ccf777a14406055",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 222000222,
-      "logoURI": "https://raw.githubusercontent.com/JerryVp/AzimoSwapDemo/master/logos/eth.png"
-    },
-    {
       "name": "MELD",
       "address": "0x22200029732c127b5F6ab8DFF17fd4aB56061F01",
       "symbol": "MELD",
@@ -71,6 +63,14 @@
       "decimals": 18,
       "chainId": 222000222,
       "logoURI": "https://api.backend.meldlabs.dev/static/tokens/DAI.svg"
+    },
+    {
+      "name": "tDOGE",
+      "address": "0x555555bd99323dcd2673306f0211d6874cb7196d",
+      "symbol": "tDOGE",
+      "decimals": 8,
+      "chainId": 222000222,
+      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/DOGE.svg"
     }
   ]
 }
