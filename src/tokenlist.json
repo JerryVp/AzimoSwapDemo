@@ -17,28 +17,60 @@
       "logoURI": "https://raw.githubusercontent.com/JerryVp/AzimoSwapDemo/master/logos/eth.png"
     },
     {
-      "name": "TEST",
-      "address": "0x11375cE37Fa07A55B61d81538e64D766Dc20de8d",
-      "symbol": "TEST",
+      "name": "MELD",
+      "address": "0x22200029732c127b5F6ab8DFF17fd4aB56061F01",
+      "symbol": "MELD",
       "decimals": 18,
       "chainId": 222000222,
-      "logoURI": "https://raw.githubusercontent.com/JerryVp/AzimoSwapDemo/master/logos/token1.png"
+      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/MELD.svg"
     },
     {
-      "name": "USDT",
-      "address": "0x0F60B16F14c15b2101E02ddf8dEf61Bd879ddDF5",
-      "symbol": "USDT",
-      "decimals": 18,
+      "name": "USD Coin",
+      "address": "0x000000a3b29aa88c2086a4893408e3df2abc80eb",
+      "symbol": "tUSDC",
+      "decimals": 6,
       "chainId": 222000222,
-      "logoURI": "https://raw.githubusercontent.com/JerryVp/AzimoSwapDemo/master/logos/token2.png"
+      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/USDC.svg"
     },
     {
-      "name": "USDC",
-      "address": "0x347B2244284bA6e3c0e4bA4847A7805738C4c722",
-      "symbol": "USDC",
+      "name": "tUSDT",
+      "address": "0x111111abd9aef0413c2c8792803c68c6cbaa1ba2",
+      "symbol": "tUSDT",
+      "decimals": 6,
+      "chainId": 222000222,
+      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/TETHER.svg"
+    },
+    {
+      "name": "tAVAX",
+      "address": "0x666666fa5bec39bbd0be9158e51bc316428d0075",
+      "symbol": "tAVAX",
       "decimals": 18,
       "chainId": 222000222,
-      "logoURI": "https://raw.githubusercontent.com/JerryVp/AzimoSwapDemo/master/logos/token3.png"
+      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/AVAX.svg"
+    },
+    {
+      "name": "tETH",
+      "address": "0x222222a36b054b4067eb52258797d922e9b44c28",
+      "symbol": "tETH",
+      "decimals": 18,
+      "chainId": 222000222,
+      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/ETH.svg"
+    },
+    {
+      "name": "tBTC",
+      "address": "0x333333cf89d3fbbddf44423c7e9251463b866bcb",
+      "symbol": "tBTC",
+      "decimals": 8,
+      "chainId": 222000222,
+      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/BTC.svg"
+    },
+    {
+      "name": "tDAI",
+      "address": "0x44444409d89a0cca8bd4c1ce9f99d546880f251b",
+      "symbol": "tDAI",
+      "decimals": 18,
+      "chainId": 222000222,
+      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/DAI.svg"
     }
   ]
 }
