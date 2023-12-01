@@ -9,9 +9,9 @@
   },
   "tokens": [
     {
-      "name": "MELD",
-      "address": "0x22200029732c127b5F6ab8DFF17fd4aB56061F01",
-      "symbol": "MELD",
+      "name": "tMELD",
+      "address": "0x22200025a5bc2c7da9c8ed6c051a58e12efa7501",
+      "symbol": "tMELD",
       "decimals": 18,
       "chainId": 222000222,
       "logoURI": "https://api.backend.meldlabs.dev/static/tokens/MELD.svg"
