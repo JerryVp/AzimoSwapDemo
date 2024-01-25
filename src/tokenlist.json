@@ -3,7 +3,7 @@
   "timestamp": "2023-08-12T16:00:00.000Z",
   "logoURI": "https://raw.githubusercontent.com/JerryVp/AzimoSwapDemo/master/logos/meld_logo.png",
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   },
@@ -69,6 +69,14 @@
       "address": "0x555555bd99323dcd2673306f0211d6874cb7196d",
       "symbol": "tDOGE",
       "decimals": 8,
+      "chainId": 222000222,
+      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/DOGE.svg"
+    },
+    {
+      "name": "MEME",
+      "address": "0xd2C417642f0D6C3f39c837F552AccE36D0d3B02b",
+      "symbol": "MEME",
+      "decimals": 18,
       "chainId": 222000222,
       "logoURI": "https://api.backend.meldlabs.dev/static/tokens/DOGE.svg"
     }
