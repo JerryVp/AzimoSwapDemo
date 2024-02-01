@@ -81,25 +81,25 @@
       "logoURI": "https://api.backend.meldlabs.dev/static/tokens/DOGE.svg"
     },
     {
-      "name": "MEMEX",
-      "address": "0xd2C417642f0D6C3f39c837F552AccE36D0d3B02b",
-      "symbol": "MEMEX",
+      "name": "tGMX",
+      "address": "0x888888E101A2AB5bD860c37CaAEDE275d15c8F83",
+      "symbol": "tGMX",
       "decimals": 18,
       "chainId": 222000222,
       "logoURI": "https://api.backend.meldlabs.dev/static/tokens/DOGE.svg"
     },
     {
-      "name": "MEMEY",
-      "address": "0xd2C417642f0D6C3f39c837F552AccE36D0d3B02b",
-      "symbol": "MEMEY",
+      "name": "WETH",
+      "address": "0x3410a470F9C7F1C2d68a7312d643B7d33371fb04",
+      "symbol": "WETH",
       "decimals": 18,
       "chainId": 222000222,
       "logoURI": "https://api.backend.meldlabs.dev/static/tokens/DOGE.svg"
     },
     {
-      "name": "MEMEZ",
-      "address": "0xd2C417642f0D6C3f39c837F552AccE36D0d3B02b",
-      "symbol": "MEMEZ",
+      "name": "EGG",
+      "address": "0x187F53aE10E952305957F7C6262320a42EB2f6a1",
+      "symbol": "EGG",
       "decimals": 18,
       "chainId": 222000222,
       "logoURI": "https://api.backend.meldlabs.dev/static/tokens/DOGE.svg"
