@@ -3,7 +3,7 @@
   "timestamp": "2023-08-12T16:00:00.000Z",
   "logoURI": "https://raw.githubusercontent.com/JerryVp/AzimoSwapDemo/master/logos/meld_logo.png",
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
     "patch": 0
   },
@@ -14,7 +14,7 @@
       "symbol": "tMELD",
       "decimals": 18,
       "chainId": 222000222,
-      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/MELD.svg"
+      "logoURI": "https://tracking-api-dev.meldlabs.dev/proxy/assets/tokens/MELD.svg"
     },
     {
       "name": "USD Coin",
@@ -22,7 +22,7 @@
       "symbol": "tUSDC",
       "decimals": 6,
       "chainId": 222000222,
-      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/USDC.svg"
+      "logoURI": "https://tracking-api-dev.meldlabs.dev/proxy/assets/tokens/USDC.svg"
     },
     {
       "name": "tUSDT",
@@ -30,7 +30,7 @@
       "symbol": "tUSDT",
       "decimals": 6,
       "chainId": 222000222,
-      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/TETHER.svg"
+      "logoURI": "https://tracking-api-dev.meldlabs.dev/proxy/assets/tokens/TETHER.svg"
     },
     {
       "name": "tAVAX",
@@ -38,7 +38,7 @@
       "symbol": "tAVAX",
       "decimals": 18,
       "chainId": 222000222,
-      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/AVAX.svg"
+      "logoURI": "https://tracking-api-dev.meldlabs.dev/proxy/assets/tokens/AVAX.svg"
     },
     {
       "name": "tETH",
@@ -46,7 +46,7 @@
       "symbol": "tETH",
       "decimals": 18,
       "chainId": 222000222,
-      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/ETH.svg"
+      "logoURI": "https://tracking-api-dev.meldlabs.dev/proxy/assets/tokens/ETH.svg"
     },
     {
       "name": "tBTC",
@@ -54,7 +54,7 @@
       "symbol": "tBTC",
       "decimals": 8,
       "chainId": 222000222,
-      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/BTC.svg"
+      "logoURI": "https://tracking-api-dev.meldlabs.dev/proxy/assets/tokens/BTC.svg"
     },
     {
       "name": "tDAI",
@@ -62,7 +62,7 @@
       "symbol": "tDAI",
       "decimals": 18,
       "chainId": 222000222,
-      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/DAI.svg"
+      "logoURI": "https://tracking-api-dev.meldlabs.dev/proxy/assets/tokens/DAI.svg"
     },
     {
       "name": "tDOGE",
@@ -70,7 +70,7 @@
       "symbol": "tDOGE",
       "decimals": 8,
       "chainId": 222000222,
-      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/DOGE.svg"
+      "logoURI": "https://tracking-api-dev.meldlabs.dev/proxy/assets/tokens/DOGE.svg"
     },
     {
       "name": "MEME",
@@ -78,7 +78,7 @@
       "symbol": "MEME",
       "decimals": 18,
       "chainId": 222000222,
-      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/DOGE.svg"
+      "logoURI": "https://tracking-api-dev.meldlabs.dev/proxy/assets/tokens/DOGE.svg"
     },
     {
       "name": "tGMX",
@@ -86,7 +86,7 @@
       "symbol": "tGMX",
       "decimals": 18,
       "chainId": 222000222,
-      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/DOGE.svg"
+      "logoURI": "https://tracking-api-dev.meldlabs.dev/proxy/assets/tokens/DOGE.svg"
     },
     {
       "name": "WETH",
@@ -94,7 +94,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 222000222,
-      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/DOGE.svg"
+      "logoURI": "https://tracking-api-dev.meldlabs.dev/proxy/assets/tokens/DOGE.svg"
     },
     {
       "name": "EGG",
@@ -102,7 +102,7 @@
       "symbol": "EGG",
       "decimals": 18,
       "chainId": 222000222,
-      "logoURI": "https://api.backend.meldlabs.dev/static/tokens/DOGE.svg"
+      "logoURI": "https://tracking-api-dev.meldlabs.dev/proxy/assets/tokens/DOGE.svg"
     }
   ]
 }
