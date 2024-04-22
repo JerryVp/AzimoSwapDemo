@@ -3,7 +3,7 @@
   "timestamp": "2023-08-12T16:00:00.000Z",
   "logoURI": "https://raw.githubusercontent.com/JerryVp/AzimoSwapDemo/master/logos/meld_logo.png",
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 0,
     "patch": 0
   },
@@ -33,25 +33,25 @@
       "logoURI": "https://tracking-api-dev.meldlabs.dev/proxy/assets/tokens/TETHER.svg"
     },
     {
-      "name": "tAVAX",
+      "name": "Wrapped Avalanche",
       "address": "0x666666fa5bec39bbd0be9158e51bc316428d0075",
-      "symbol": "tAVAX",
+      "symbol": "twAVAX",
       "decimals": 18,
       "chainId": 222000222,
       "logoURI": "https://tracking-api-dev.meldlabs.dev/proxy/assets/tokens/AVAX.svg"
     },
     {
-      "name": "tETH",
+      "name": "Wrapped Ether",
       "address": "0x222222a36b054b4067eb52258797d922e9b44c28",
-      "symbol": "tETH",
+      "symbol": "twETH",
       "decimals": 18,
       "chainId": 222000222,
       "logoURI": "https://tracking-api-dev.meldlabs.dev/proxy/assets/tokens/ETH.svg"
     },
     {
-      "name": "tBTC",
+      "name": "Wrapped BTC",
       "address": "0x333333cf89d3fbbddf44423c7e9251463b866bcb",
-      "symbol": "tBTC",
+      "symbol": "twBTC",
       "decimals": 8,
       "chainId": 222000222,
       "logoURI": "https://tracking-api-dev.meldlabs.dev/proxy/assets/tokens/BTC.svg"
